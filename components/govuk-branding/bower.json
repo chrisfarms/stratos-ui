@@ -1,0 +1,17 @@
+{
+  "name": "govuk-branding",
+  "description": "",
+  "license": "Apache-2.0",
+  "moduleType": [],
+  "homepage": "",
+  "main": [
+    "src/brand.scss",
+    "favicon.ico"
+  ],
+  "ignore": [
+    ".*"
+  ],
+  "dependencies": {
+  }
+
+}

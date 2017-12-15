@@ -1,0 +1,43 @@
+{
+  "product": {
+    "name": "GOV.UK PaaS Console",
+    "console": "GOV.UK PaaS Console",
+    "cf": "GOV.UK PaaS",
+    "ce": "Code Engine",
+    "eula": "eula.html"
+  },
+  "company": {
+    "name": "GOV.UK",
+    "terms": "Legal",
+    "terms.href": "https://www.cloud.service.gov.uk/support",
+    "PRIVACY_HREF": "", 
+    "PRODUCT_FAMILY_HREF": "",
+    "www-link": "https://www.cloud.service.gov.uk/",
+    "logo": "images/crown_white.png"
+  },
+  "about": {
+    "footer": {
+      "company.logo": "images/crest.png",
+      "company.terms-href": "",
+      "company.privacy-href": ""
+    }
+  },
+  "navbar": {
+    "title": "GOV.UK PaaS",
+    "logo": "svg:govuk.svg"
+  },
+  "login": {
+    "title":"Sign in",
+    "console": "GOV.UK PaaS<br>Admin Console"
+  },
+  "landing": {
+    "footer": {
+      "company.terms-href": "",
+      "company.privacy-href": ""
+    }
+  },
+  "locales": {
+    "locales": "en_US",
+    "en_US": "English"
+  }
+}
